@@ -7,7 +7,8 @@
 ![Result figure](figures/gypAI.png)
 
 
-## Policy  
+## Policy and Algorithm
+![Policy agent](figures/algorithm.png)
 ![Policy agent](figures/actions_agent.png)
 
 ![Spectrogram](figures/spectrogram.png)
